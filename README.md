@@ -24,5 +24,7 @@ There are several functions that we will implement on our project:
 - User Reviews and Ratings: allow users to leave feedback and ratings for the food they have ordered, and the important thing is to help future customers make decisions.
 
 ## 5.0 ER DIAGRAM
+![erDia](https://github.com/HORRYZONE/ProjectWebAPP/assets/69580122/23cf3f6e-8b0c-4d5b-9958-76c5de17db2e)
+
 ## 6.0 SEQUENCE DIAGRAM
  
