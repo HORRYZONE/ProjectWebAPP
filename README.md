@@ -17,11 +17,11 @@ There are three main objectives of our project:
 
 ## 4.0 FEATURES AND FUNCTIONALITY 
 There are several functions that we will implement on our project:
-1. User Registration and Authentication: allow users to create accounts, log in, and manage their profiles.
-2. Shopping Cart: enable users to view their selected items, modify quantities and remove items if they have changed their mind.
-3. Payment Integration: integrate a secure payment gateway to process online payments so that users can complete transactions using various payment methods such as credit/debit cards, digital wallets, or online banking.
-4. Order Tracking: implement a feature that allows users to track the status of their orders.
-5. User Reviews and Ratings: allow users to leave feedback and ratings for the food they have ordered, and the important thing is to help future customers make decisions.
+* User Registration and Authentication: allow users to create accounts, log in, and manage their profiles.
+* Shopping Cart: enable users to view their selected items, modify quantities and remove items if they have changed their mind.
+* Payment Integration: integrate a secure payment gateway to process online payments so that users can complete transactions using various payment methods such as credit/debit cards, digital wallets, or online banking.
+* Order Tracking: implement a feature that allows users to track the status of their orders.
+* User Reviews and Ratings: allow users to leave feedback and ratings for the food they have ordered, and the important thing is to help future customers make decisions.
 
 ## 5.0 ER DIAGRAM
 ![erDia](https://github.com/HORRYZONE/ProjectWebAPP/assets/69580122/23cf3f6e-8b0c-4d5b-9958-76c5de17db2e)
